@@ -1,4 +1,4 @@
-# Sprawdzenie wydajnści aplikacji Web Wildfly
+# Sprawdzenie wydajnści aplikacji Web na Wildfly
 
 ## FMEAv2_JDBC - sprawdzenie wydajności bazy danych
 
