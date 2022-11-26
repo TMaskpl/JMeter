@@ -1,4 +1,7 @@
-# Sprawdzenie wydajnści aplikacji Web na Wildfly
+# Sprawdzenie wydajnści aplikacji Web
+
+- Wildfly
+- Postgres
 
 ## FMEAv2_JDBC - sprawdzenie wydajności bazy danych
 
