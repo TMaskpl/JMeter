@@ -56,6 +56,7 @@
  - GitLab (kontrola wersji)
  - DBeaver (obsługa baz danych)
  - VS Code (edytor kodu)
+ - Blazmeter
  
  
  #### Zrzuty ekranu
